@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GatewayApi", "GatewayApi.csproj", "{A8CCD72B-06A2-4204-AAE4-0BCB272A49B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataService", "..\DataService\DataService.csproj", "{D6CA1293-04B6-442F-9114-8ADE044D5600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8CCD72B-06A2-4204-AAE4-0BCB272A49B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8CCD72B-06A2-4204-AAE4-0BCB272A49B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8CCD72B-06A2-4204-AAE4-0BCB272A49B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8CCD72B-06A2-4204-AAE4-0BCB272A49B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CA1293-04B6-442F-9114-8ADE044D5600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CA1293-04B6-442F-9114-8ADE044D5600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CA1293-04B6-442F-9114-8ADE044D5600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CA1293-04B6-442F-9114-8ADE044D5600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCCBC02D-377C-4E6A-B71E-3931E643268D}
+	EndGlobalSection
+EndGlobal

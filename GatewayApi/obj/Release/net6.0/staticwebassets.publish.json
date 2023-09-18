@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XEKNrN3E2XQldCyZA6V5t9K1PcO3XHr8Xy7YE2x5tCU=",
+  "Source": "GatewayApi",
+  "BasePath": "_content/GatewayApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
